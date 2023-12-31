@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://twochimpscoffee.com/wp-content/uploads/2022/05/home_hero-scaled-2.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+#nav-bar{
+    background-color: rgba(255, 255, 255, 0.244);
+    border-radius: 5px;
+}
+
+#layout{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 1fr;
+    grid-auto-flow: dense;
+    gap: 1rem;
+    width: 90%;
+    justify-content: center;
+        background-color: rgba(255, 255, 255, 0.244);
+    border-radius: 5px;
+}
+
+.card{
+    width: auto;
+}
+
+.nav-link{
+    color: white;
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: large;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+
+}
+
+img{
+    height: 90%;
+}
+
+#logo{
+    height: 4rem;
+}
