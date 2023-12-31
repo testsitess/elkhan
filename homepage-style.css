@@ -25,6 +25,7 @@ body{
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    gap: 2px;
-    width: 10%;
+    gap: 1px;
+    width: 20%;
+    justify-content: center;
 }
