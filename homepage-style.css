@@ -22,8 +22,6 @@ body{
 }
 
 #butns{
-    display: flex;
-    justify-content: center;
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
