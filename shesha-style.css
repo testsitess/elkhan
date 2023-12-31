@@ -39,7 +39,7 @@ body{
     display: flex;
     justify-content: center;
     align-content: center;
-    font-size: larger;
+    font-size: large;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
 }

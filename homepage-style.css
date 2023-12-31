@@ -20,3 +20,13 @@ body{
 #bttn{
     background-color: rgba(255, 255, 255, 0.329);
 }
+
+#butns{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 2px;
+    width: 10%;
+}
