@@ -1,10 +1,5 @@
 body{
-    background-image: url(https://twochimpscoffee.com/wp-content/uploads/2022/05/home_hero-scaled-2.jpg);
-    margin: 0;
-    padding: 0;
-    background-size: cover; 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-v6p-iDO-IEwyw-CgPydezpjwdV_oTF9CxXCdJnfdCAVuIcM61UqYfm3Opw-l66dUn0&usqp=CAU);
     display: flex;
     flex-direction: row;
     align-content: center;
@@ -24,7 +19,7 @@ body{
     gap: 4rem;
     width: 90%;
     justify-content: center;
-        background-color: rgba(255, 255, 255, 0.244);
+    background-color: rgba(255, 255, 255, 0.244);
     border-radius: 3px;
 }
 
@@ -40,7 +35,7 @@ body{
     display: flex;
     justify-content: center;
     align-content: center;
-    font-size: large;
+    font-size: medium;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
     font-weight: small;
 

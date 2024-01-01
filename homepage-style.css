@@ -17,9 +17,6 @@ body{
     margin-left: 15px;
 }
 
-#bttn{
-    background-color: rgba(255, 255, 255, 0.329);
-}
 
 #butns{
     display: grid;
